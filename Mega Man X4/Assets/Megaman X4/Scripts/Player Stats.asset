@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95c86f9911873574895fe740779d05ca, type: 3}
+  m_Name: Player Stats
+  m_EditorClassIdentifier: 
+  maxHealth: 0
+  facingRight: 0
+  beingDamaged: 0
+  isJumping: 0
+  isMoving: 0
+  isToLand: 0
+  isGrounded: 0
+  isShooting: 0
+  isControllable: 0
+  isDashing: 0
+  isOnLadder: 0
+  onTopOfLadder: 0
+  hasLadderAbove: 0
+  ladderFromTop: 0
