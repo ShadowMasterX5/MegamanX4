@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mega Man X4", "Assembly-CSharp.csproj", "{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{BE1B412F-4363-9E23-3068-F68A6D62373C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mega Man X4", "Assembly-CSharp-firstpass.csproj", "{BE1B412F-4363-9E23-3068-F68A6D62373C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mega Man X4", "Assembly-CSharp-Editor-firstpass.csproj", "{07ACD1B3-98D2-6B06-AE51-028580129FB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{07ACD1B3-98D2-6B06-AE51-028580129FB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BE1B412F-4363-9E23-3068-F68A6D62373C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BE1B412F-4363-9E23-3068-F68A6D62373C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE1B412F-4363-9E23-3068-F68A6D62373C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE1B412F-4363-9E23-3068-F68A6D62373C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C7D7CA-E91F-B1DF-B8CC-F6DA7F7051B9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{07ACD1B3-98D2-6B06-AE51-028580129FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{07ACD1B3-98D2-6B06-AE51-028580129FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07ACD1B3-98D2-6B06-AE51-028580129FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
